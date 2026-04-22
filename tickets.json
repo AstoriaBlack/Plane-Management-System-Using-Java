@@ -1,0 +1,42 @@
+[
+  {
+    "ticketNumber": "01",
+    "row": "A",
+    "seat": 1,
+    "passengerName": "Tharushi",
+    "passengerSurname": "Sewmini",
+    "passengerEmail": "sewmini@gmail.com",
+    "ticketClass": "First Class",
+    "price": 200.00
+  },
+  {
+    "ticketNumber": "02",
+    "row": "B",
+    "seat": 11,
+    "passengerName": "Kithmini",
+    "passengerSurname": "Jayaweera",
+    "passengerEmail": "kithmini@gmail.com",
+    "ticketClass": "Economy",
+    "price": 180.00
+  },
+  {
+    "ticketNumber": "T001",
+    "row": "A",
+    "seat": 5,
+    "passengerName": "John",
+    "passengerSurname": "Doe",
+    "passengerEmail": "john@example.com",
+    "ticketClass": "First Class",
+    "price": 200.00
+  },
+  {
+    "ticketNumber": "T200",
+    "row": "D",
+    "seat": 8,
+    "passengerName": "Bob",
+    "passengerSurname": "Johnson",
+    "passengerEmail": "bob@example.com",
+    "ticketClass": "Business",
+    "price": 150.00
+  }
+]
